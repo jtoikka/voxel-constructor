@@ -11,6 +11,7 @@ Currently Linux and Mac OS X are supported via a Makefile. To build, run make in
 * Rotating blocks: Prior to placing a block, the rotation can be chosen by clicking "Rotate" (increase the size of the window if the "Rotate" button is not visible). Currently the only indication of the rotation is a value displayed on the "Rotate" button. Planned: displaying a wireframe or semi-transparent block prior to placement.
 * Selecting blocks: Chosen from the left-side panel. Note: "r" stands for "reverse", and indicates the block is upside-down. "Inv" stands for "inverse", and indicates the block is a cube with the respective shape subtracted from it.
 * Painting: currently not supported! The random colours are there as a place holder, demonstrating that the painting does function, but is not user-controllable. 
+* Rotating mesh: Click the area outside the mesh and hold to rotate.
 
 ###Exporting
 The model can be exported to a Wavefront .obj model. This is done by clicking the text field at the bottom of the screen. Type "export", then hit return.
