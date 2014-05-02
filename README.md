@@ -3,7 +3,7 @@
 Voxel constructor is a tool for building voxel-like models. The construction consists of utilizing building blocks ("voxels") for constructing the model. The blocks can be placed, rotated, and removed [planned: painting]. 
 
 ## Building
-Currently Linux and Mac OS X are supported via a Makefile. To build, run make in the project directory, and then run ./test. *Latest build has not been tested under Linux, and may require modifications to the Makefile*.
+Currently Linux and Mac OS X are supported via a Makefile. To build, run make in the project directory, and then run ./test. *Latest build has not been tested under Linux, and may require modifications to the Makefile*. Libraries may need to be manually built (in lib folder).
 
 ## Instructions
 * Adding blocks: From the left-side panel, select "Add". Now click on the model to add a block.
